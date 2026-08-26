@@ -25,9 +25,6 @@ padding: 10px;
 #Top10 img {
   width: 230px;
 }
-#estadios img{
-  width: 100px;
-}
 nav {
   display: flex;
   flex-wrap: wrap;
