@@ -8,7 +8,23 @@ body {
   color: black;
   background-color: white;
 }
+/*HEADER*/
 
+header {
+  background-color: #000;
+}
+#logos {
+  display: flex;
+justify-content: space-between;
+align-items: center;
+padding: 10px;
+}
+#Leyendas img {
+  width: 300px;
+}
+#Top10 img {
+  width: 230px;
+}
 nav {
   display: flex;
   flex-wrap: wrap;
