@@ -64,7 +64,14 @@ section{
   justify-content: center;
   align-items: center;
 }
-
+#estadios{
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 15px;
+  padding-top: 20px;
+}
 h1 {
   font-weight: bold;
   font-size: 1.5rem;
