@@ -105,18 +105,18 @@ footer {
  
  
  #colegio {
-  background-color: red;
+  background-color: rgb(29, 14, 112) 0, 0;
  }
  
  
  #alumno {
-  background-color: yellow;
-  color: black;
+  background-color: rgb(29, 14, 112) 0, 0;
+  color: rgb(29, 14, 112) 0, 0;
  }
  
  
  #redes {
-  background-color: black;
+  background-color: rgb(29, 14, 112) 0, 0;
   display: flex;
   justify-content: center;
   align-items: center;
