@@ -136,12 +136,39 @@ footer {
 background-color: #afa8a8; }
 
 /* HISTORIA */
-#estadosunidosunidos,#estadosunidos tr,#estadosunidos td, #estadosunidos th{
+#Maracana,#Wembley tr,#SantiagoBernabeu td, #OldTrafford td, #LaBombonera td, #CampNou td, #SanSiro td, #Anfield td, #ElMonumental td, #EstadioAzteca th {
   border: solid coral 3px;
   border-collapse: collapse;
   }
-  #estadosunidos img{
+  #Maracana img{
    width: 200px;
   }
+  #Wembley img{
+    width: 200px;
+   }
+   #SantiagoBernabeu img{
+    width: 200px;
+   }
+   #OldTrafford img{
+    width: 200px;
+   }
+   #LaBombonera img{
+    width: 200px;
+   }
+   #CampNou img{
+    width: 200px;
+   }
+   #SanSiro img{
+    width: 200px;
+   }
+   #Anfield img{
+    width: 200px;
+   }
+   #ElMonumental img{
+    width: 200px;
+   }
+   #estadioAzteca img{
+    width: 200px;
+   }
   
  
