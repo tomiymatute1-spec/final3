@@ -134,5 +134,14 @@ footer {
  }
  main{
 background-color: #afa8a8; }
+
+/* HISTORIA */
+#estadosunidosunidos,#estadosunidos tr,#estadosunidos td, #estadosunidos th{
+  border: solid coral 3px;
+  border-collapse: collapse;
+  }
+  #estadosunidos img{
+   width: 200px;
+  }
   
  
