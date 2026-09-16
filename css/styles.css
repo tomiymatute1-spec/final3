@@ -146,7 +146,8 @@ background-color: #afa8a8; }
   border-collapse: collapse;
   }
   #Maracana img{
-   width: 150px;
+   width: 200px;
+   height: auto;
   }
   #Wembley img{
     width: 200px;
