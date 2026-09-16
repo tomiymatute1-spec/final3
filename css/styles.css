@@ -175,5 +175,12 @@ background-color: #afa8a8; }
    #estadioAzteca img{
     width: 200px;
    }
-  
+  /* Las fotos se acomodan una al lado de la otra automaticamente (50% cada una) */
+.foto {
+  min-height: 120px; /*Espacio para la imagen */
+  padding: 35px 10px 10px 10px;
+  font-size: 11px;
+  border-bottom: 2px solid #000;
+}
+
  
