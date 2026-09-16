@@ -140,6 +140,11 @@ background-color: #afa8a8; }
   border: solid coral 3px;
   border-collapse: collapse;
   }
+  /* Img */
+ #Maracana.jpg,#Wembley.jpg tr,#SantiagoBernabeu.png td, #uruguay1930.jpg th{
+  border: solid coral 3px;
+  border-collapse: collapse;
+  }
   #Maracana img{
    width: 150px;
   }
