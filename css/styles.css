@@ -181,5 +181,14 @@ background-color: #afa8a8; }
    #estadioAzteca img{
     width: 500px;
    }
+   #contenedor {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+  }
   
+  #torcida ul {
+    list-style: none; 
+    padding: 0;
+  }
  
