@@ -181,4 +181,17 @@ background-color: #afa8a8; }
    #estadioAzteca img{
     width: 500px;
    }
- 
+   .bloque {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px;
+  }
+  
+  .bloque img {
+    width: 400px; /* IMPORTANTE: achica la imagen */
+    height: auto;
+  }
+  
+  .bloque ul {
+    max-width: 300px;
+  }
