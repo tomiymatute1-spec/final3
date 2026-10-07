@@ -4,10 +4,6 @@
     <title>Top10</title>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width" />
-    <!--
-      Need a visual blank slate?
-      Remove all code in `styles.css`!
-    -->
     <link rel="stylesheet" href="css/styles.css" />
     <script type="module" src="script.js"></script>
   </head>
@@ -27,10 +23,47 @@
       <a href="idolos.html">ídolos</a>
     </nav>
     <main>
-      <h1>Los 10 Mejores estadios</h1>
-      <h2>Los que marcaron la historia del fútbol</h2>
-      <div id="estadios">
-        <img src="img/estadios.png" alt="estadios">
+      <h1>Formulario</h1>
+      <h2>precios entradas</h2>
+      <p>ingrese sus datos para realizar la reserva de la entrada</p>
+      <section>
+ <div id="formulario">
+  <h2>tus datos</h2>
+
+  <form action="#">
+     <label for="formnombre">nombre</label>
+     <input type="text" name="formnombre" id="formnombre" maxlength="15" minlength="3" required
+      placeholder="ingrese su nombre">
+      <label for="formapellido">Apellido</label>
+          <input type="text" name="formapellido" id="formapellido" maxlength="20" minlength="3" required
+            placeholder="Ingrese su apellido">
+
+          <input id="formedad" required type="number" placeholder="Ingrese su edad">
+          <input id="formclave" required type="password" placeholder="Ingrese la contraseña">
+
+          <input type="email" placeholder="correotute@gmail.com">
+          <input type="radio" id="formf" name="formsexo" value="Femenino">
+          <label for="fem">Femenino</label>
+          <input type="radio" id="formm" name="formsexo" value="Masculino">
+          <label for="mas">Masculino</label>
+          <input type="radio" id="formn" name="formsexo" value="Nodecirlo">
+          <label for="noinf">Prefiero no decirlo</label><br> <br>
+
+          <label for="ubicacion">Seleccione una ubicación</label><br>
+          <select name="ubicacion" id="formubi">
+            <option value="plateaa">Platea Alta</option>
+            <option value="plateam">Platea Media</option>
+            <option value="plateab">Platea Baja</option>
+            <option value="popular">Popular</option>
+            <option value="palco">Palco</option>
+          </select>
+
+          <textarea name="areatexto" id="formtext" cols="30" rows="5"></textarea>
+
+          <input type="submit">
+        </form>
+      </div>
+    </section>     
       </div>
       <footer>
         <div id="colegio">
