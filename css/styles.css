@@ -154,8 +154,9 @@ background-color: #afa8a8; }
     height: auto;
   }
   
-  #Wembley img{
+  #wembley img{
     width: 500px;
+    height: auto;
    }
    #SantiagoBernabeu img{
     width: 500px;
