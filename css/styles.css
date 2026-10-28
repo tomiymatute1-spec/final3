@@ -81,7 +81,7 @@ h1 {
   width: 1130px;
 }
 footer {
-  background-color: #000;
+  background-color: rgb(76, 76, 197);
   color: white;
   display: flex;
   flex-wrap: wrap;
