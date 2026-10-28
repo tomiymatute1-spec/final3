@@ -233,3 +233,36 @@ background-color: #afa8a8; }
     width: 500px;
     height: auto;
   }
+  #precios {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 20px auto;
+    font-family: Arial, sans-serif;
+    background-color: white;
+  }
+  
+  #precios th {
+    background-color: black;
+    color: white;
+    padding: 14px;
+    border: 1px solid #444;
+  }
+  
+  #precios td {
+    padding: 12px;
+    border: 1px solid #ccc;
+    text-align: center;
+  }
+  
+  #precios tr:nth-child(even) {
+    background-color: #eeeeee;
+  }
+  
+  #precios tr:hover {
+    background-color: #dddddd;
+  }
+  
+  #precios th,
+  #precios td {
+    font-size: 15px;
+  }
