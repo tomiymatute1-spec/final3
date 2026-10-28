@@ -266,16 +266,3 @@ background-color: #afa8a8; }
   #precios td {
     font-size: 15px;
   }
-  .escudo-fluminense{
-    display: flex;
-    flex-direction: row;
-    align-items: flex-start;
-    gap: 20px;
-    width: 100%;
-  }
-  .escudo-fluminense img{
-    width: 32%;
-    height: 250px;
-    object-fit: cover;
-    border-radius: 8px;
-  }
