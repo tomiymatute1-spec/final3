@@ -268,9 +268,10 @@ background-color: #afa8a8; }
   }
   .escudo-fluminense{
     display: flex;
-    gap: 15px;
+    flex-direction: row;
     align-items: flex-start;
-    flex-wrap: wrap;
+    gap: 20px;
+    width: 100%;
   }
   .escudo-fluminense img{
     width: 32%;
