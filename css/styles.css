@@ -266,6 +266,10 @@ background-color: #afa8a8; }
   #precios td {
     font-size: 15px;
   }
+  #fred img{
+    width: 500px;
+    height: auto;
+   }
   #riquelme img{
     width: 500px;
     height: auto;
