@@ -242,24 +242,24 @@ background-color: #afa8a8; }
   }
   
   #precios th {
-    background-color: black;
+    background-color: #0B1F3A;
     color: white;
     padding: 14px;
-    border: 1px solid #444;
+    border: 1px solid #183B5B;
   }
   
   #precios td {
     padding: 12px;
-    border: 1px solid #ccc;
+    border: 1px solid #B0C4DE;
     text-align: center;
   }
   
   #precios tr:nth-child(even) {
-    background-color: #eeeeee;
+    background-color: #e3f2fd;
   }
   
   #precios tr:hover {
-    background-color: #dddddd;
+    background-color: #BBDEFB;
   }
   
   #precios th,
